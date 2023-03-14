@@ -26,9 +26,9 @@ SET time_zone = "+00:00";
 --
 -- Estrutura da tabela `categorias`
 --
-CREATE DATABASE laraveltestedump;
+CREATE DATABASE laravel;
 
-USE laraveltestedump;
+USE laravel;
 
 CREATE TABLE `categorias` (
   `id` bigint UNSIGNED NOT NULL,
